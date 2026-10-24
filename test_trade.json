@@ -1,0 +1,10 @@
+{
+  "trade_id": "T0001",
+  "symbol": "BTCUSD",
+  "side": "long",
+  "entry_price": 67200,
+  "stop_loss": 66800,
+  "take_profit": 68200,
+  "status": "open",
+  "opened_at": "2026-09-05T09:55:40.044144"
+}
